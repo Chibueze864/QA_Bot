@@ -1,7 +1,7 @@
 from smolagents.tools import Tool
 import markdownify
-import requests
 import smolagents
+import requests
 
 class VisitWebpageTool(Tool):
     name = "visit_webpage"
