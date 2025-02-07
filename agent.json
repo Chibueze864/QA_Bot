@@ -35,17 +35,17 @@
     "name": null,
     "description": null,
     "authorized_imports": [
-        "time",
-        "datetime",
-        "pandas",
         "collections",
-        "unicodedata",
+        "itertools",
+        "statistics",
         "stat",
         "random",
         "math",
-        "itertools",
-        "statistics",
+        "pandas",
+        "datetime",
         "queue",
-        "re"
+        "re",
+        "unicodedata",
+        "time"
     ]
 }
