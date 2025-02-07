@@ -1,7 +1,7 @@
 from typing import Any, Optional
 from smolagents.tools import Tool
-import smolagents
 import markdownify
+import smolagents
 import requests
 
 class VisitWebpageTool(Tool):
