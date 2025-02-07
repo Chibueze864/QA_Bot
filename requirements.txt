@@ -1,5 +1,5 @@
-pandas
-requests
 smolagents
 duckduckgo_search
+pandas
 markdownify
+requests
