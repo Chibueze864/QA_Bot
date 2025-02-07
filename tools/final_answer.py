@@ -1,3 +1,4 @@
+from typing import Any, Optional
 from smolagents.tools import Tool
 
 class FinalAnswerTool(Tool):
