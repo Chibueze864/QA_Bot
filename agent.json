@@ -37,15 +37,15 @@
     "authorized_imports": [
         "time",
         "datetime",
-        "random",
         "pandas",
-        "queue",
-        "math",
-        "re",
-        "itertools",
-        "stat",
+        "collections",
         "unicodedata",
+        "stat",
+        "random",
+        "math",
+        "itertools",
         "statistics",
-        "collections"
+        "queue",
+        "re"
     ]
 }
