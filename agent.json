@@ -7,6 +7,8 @@
     "model": {
         "class": "HfApiModel",
         "data": {
+            "max_tokens": 2096,
+            "temperature": 0.5,
             "last_input_token_count": null,
             "last_output_token_count": null,
             "model_id": "Qwen/Qwen2.5-Coder-32B-Instruct",
@@ -35,17 +37,17 @@
     "name": null,
     "description": null,
     "authorized_imports": [
-        "datetime",
-        "itertools",
-        "collections",
-        "re",
-        "stat",
-        "random",
-        "time",
         "unicodedata",
-        "math",
-        "queue",
+        "stat",
+        "datetime",
+        "random",
         "pandas",
-        "statistics"
+        "itertools",
+        "math",
+        "statistics",
+        "queue",
+        "time",
+        "collections",
+        "re"
     ]
 }

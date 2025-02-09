@@ -1,8 +1,8 @@
 from typing import Any, Optional
 from smolagents.tools import Tool
 import requests
-import smolagents
 import markdownify
+import smolagents
 
 class VisitWebpageTool(Tool):
     name = "visit_webpage"
