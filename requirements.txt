@@ -1,5 +1,5 @@
-smolagents==1.8.0
-markdownify
 duckduckgo_search
-requests
+markdownify
 pandas
+smolagents
+requests
