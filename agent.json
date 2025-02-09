@@ -36,16 +36,16 @@
     "description": null,
     "authorized_imports": [
         "datetime",
-        "pandas",
-        "math",
-        "statistics",
-        "queue",
-        "collections",
-        "itertools",
-        "re",
-        "time",
         "stat",
+        "unicodedata",
+        "pandas",
+        "statistics",
+        "time",
+        "queue",
+        "re",
+        "itertools",
+        "math",
         "random",
-        "unicodedata"
+        "collections"
     ]
 }
