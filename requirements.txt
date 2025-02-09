@@ -1,4 +1,4 @@
-smolagents
+smolagents==1.8.0
 markdownify
 duckduckgo_search
 requests
