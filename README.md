@@ -9,6 +9,9 @@ app_file: app.py
 pinned: false
 tags:
 - smolagents
+- agent
+- smolagent
+- tool
 - agent-course
 ---
 
