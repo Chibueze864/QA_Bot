@@ -1,5 +1,5 @@
 ---
-title: Agent
+title: First Agent Template
 emoji: ⚡
 colorFrom: pink
 colorTo: yellow
@@ -9,9 +9,7 @@ app_file: app.py
 pinned: false
 tags:
 - smolagents
-- agent
-- smolagent
-- tool
+- agent-course
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
